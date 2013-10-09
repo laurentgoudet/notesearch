@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:laurentgoudet/omnibox-server.git
+[submodule "chrome-ext"]
+	path = chrome-ext
+	url = git@github.com:laurentgoudet/omnibox-chrome-ext.git
