@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = git@github.com:laurentgoudet/omninote-server.git
+	url = git@github.com:laurentgoudet/notesearch-server.git
 [submodule "chrome-ext"]
 	path = chrome-ext
-	url = git@github.com:laurentgoudet/omninote-chrome-ext.git
+	url = git@github.com:laurentgoudet/notesearch-chrome-ext.git
